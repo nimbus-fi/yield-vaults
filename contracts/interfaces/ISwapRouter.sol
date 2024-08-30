@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.18;
+pragma solidity ^0.8.20;
 
 interface IV2SwapRouter {
     /// @notice Swaps `amountIn` of one token for as much as possible of another token

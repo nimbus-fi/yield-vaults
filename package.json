@@ -29,9 +29,10 @@
   },
   "dependencies": {
     "@chainlink/contracts": "^1.2.0",
-    "@chainlink/contracts-ccip": "1.4.0",
+    "@chainlink/contracts-ccip": "^1.4.0",
     "@openzeppelin/contracts": "^5.0.2",
     "@pythnetwork/pyth-sdk-solidity": "^4.0.0",
+    "@uniswap/v3-periphery": "^1.4.4",
     "dotenv": "^16.4.5"
   }
 }
